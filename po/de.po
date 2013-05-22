@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Eliador\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-14 07:12-0500\n"
+"POT-Creation-Date: 2013-05-21 23:01-0400\n"
 "PO-Revision-Date: 2012-11-28 18:39+0100\n"
 "Last-Translator: trewe <sjr456@yahoo.fr>\n"
 "Language-Team: trewe <sjrs456@yahoo.fr>\n"
@@ -113,7 +113,7 @@ msgstr "Plötzlich eines Abends ..."
 #: Eliador/scenarios/02b_eliador-heldurin.cfg:17
 #: Eliador/scenarios/02c_eliador-anwar.cfg:98
 #: Eliador/scenarios/02d_eliador-treasure.cfg:28
-#: Eliador/scenarios/02e_eliador-balas.cfg:144
+#: Eliador/scenarios/02e_eliador-balas.cfg:145
 #: Eliador/scenarios/02f_eliador-glorienda.cfg:88
 #: Eliador/scenarios/02g_eliador-illien.cfg:371
 #: Eliador/scenarios/02h_eliador-kelroth.cfg:22
@@ -205,7 +205,7 @@ msgstr "Morgan"
 #. [event]: type=Thief,Rogue,Assassin, id=Randalf facing sw}, (type=Fencer
 #. [then]: (id=Zeke, (id=Zilead, (id=Zeke, (id=Zilead, (id=Zilead, (id=Zeke, (id=Zilead, (id=Morgan, (id=Zilead, (id=Zeke, (id=Bill, (id=Bill, (id=Zilead, (id=Zeke, (id=Anna, (id=Zeke, (id=Ardella, (id=Zeke, (id=Ardella, (id=Anna, (id=Ardella
 #: Eliador/scenarios/01_eliador-home.cfg:218
-#: Eliador/scenarios/02e_eliador-balas.cfg:246
+#: Eliador/scenarios/02e_eliador-balas.cfg:247
 #: Eliador/scenarios/02i_eliador-varad.cfg:244
 msgid "Bill"
 msgstr "Bill"
@@ -371,11 +371,11 @@ msgstr "Schnell, geht in die Berge!"
 #. [scenario]: id=eliador-kelroth, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-sinon, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-treasure, (id=Ardella, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:292
-#: Eliador/scenarios/02c_eliador-anwar.cfg:270
+#: Eliador/scenarios/02a_eliador-sinon.cfg:293
+#: Eliador/scenarios/02c_eliador-anwar.cfg:264
 #: Eliador/scenarios/02d_eliador-treasure.cfg:228
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:208
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:476
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:194
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:438
 #: Eliador/scenarios/03_eliador-battle.cfg:686
 #: Eliador/scenarios/04_eliador-interlude.cfg:187
 msgid "Momma!"
@@ -387,11 +387,11 @@ msgstr "Mama!"
 #. [scenario]: id=eliador-kelroth, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-sinon, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-treasure, (id=Ardella, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:293
-#: Eliador/scenarios/02c_eliador-anwar.cfg:271
+#: Eliador/scenarios/02a_eliador-sinon.cfg:294
+#: Eliador/scenarios/02c_eliador-anwar.cfg:265
 #: Eliador/scenarios/02d_eliador-treasure.cfg:229
-#: Eliador/scenarios/02e_eliador-balas.cfg:678
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:477
+#: Eliador/scenarios/02e_eliador-balas.cfg:679
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:439
 #: Eliador/scenarios/03_eliador-battle.cfg:684
 msgid "Anna!"
 msgstr "Anna!"
@@ -402,22 +402,22 @@ msgstr "Anna!"
 #. [scenario]: id=eliador-kelroth, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-sinon, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-treasure, (id=Ardella, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:294
-#: Eliador/scenarios/02c_eliador-anwar.cfg:272
+#: Eliador/scenarios/02a_eliador-sinon.cfg:295
+#: Eliador/scenarios/02c_eliador-anwar.cfg:266
 #: Eliador/scenarios/02d_eliador-treasure.cfg:230
-#: Eliador/scenarios/02e_eliador-balas.cfg:679
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:478
+#: Eliador/scenarios/02e_eliador-balas.cfg:680
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:440
 #: Eliador/scenarios/03_eliador-battle.cfg:685
 msgid "Zeke!"
 msgstr "Zeke!"
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:350
+#: Eliador/scenarios/02a_eliador-sinon.cfg:351
 msgid "You have risked your lives to save our steeds. Why?"
 msgstr "Ihr habt euer Leben riskiert, um unsere Pferde zu retten. Warum?"
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:351
+#: Eliador/scenarios/02a_eliador-sinon.cfg:352
 msgid ""
 "Because we need every man and beast on this island to fight the enemies "
 "approaching Eliador."
@@ -426,7 +426,7 @@ msgstr ""
 "sich Eliador nähern zu bekämpfen."
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:352
+#: Eliador/scenarios/02a_eliador-sinon.cfg:353
 msgid ""
 "We have never backed down from a fight, so we will help you. But we have "
 "seen the number of galleons. Why don't you take your children off this "
@@ -437,7 +437,7 @@ msgstr ""
 "deine Kinder weg von der Insel?"
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:353
+#: Eliador/scenarios/02a_eliador-sinon.cfg:354
 msgid "Because they took my papa!"
 msgstr "Weil sie mein Papa nahmen!"
 
@@ -533,7 +533,7 @@ msgid "Cave Critters"
 msgstr "Höhlen Kreaturen"
 
 #. [objectives]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:142
+#: Eliador/scenarios/02c_eliador-anwar.cfg:136
 msgid ""
 "(1) A monster follows its recruiter; (2) If adjacent to its recruiter, a "
 "monster will attack an enemy within range"
@@ -542,78 +542,78 @@ msgstr ""
 "ein Monster einen Feind in Reichweite angreifen"
 
 #. [objective]: condition=win
-#: Eliador/scenarios/02c_eliador-anwar.cfg:144
+#: Eliador/scenarios/02c_eliador-anwar.cfg:138
 msgid "Recruit all monsters"
 msgstr "Rekrutiere alle Monster"
 
 #. [objective]: condition=win
-#: Eliador/scenarios/02c_eliador-anwar.cfg:148
+#: Eliador/scenarios/02c_eliador-anwar.cfg:142
 msgid "Or, survive until end of turns"
 msgstr "Oder, überlebt bis dass Rundenlimit ausläuft"
 
 #. [objective]: condition=lose
-#: Eliador/scenarios/02c_eliador-anwar.cfg:153
+#: Eliador/scenarios/02c_eliador-anwar.cfg:147
 #: Eliador/scenarios/02d_eliador-treasure.cfg:66
-#: Eliador/scenarios/02e_eliador-balas.cfg:201
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:87
+#: Eliador/scenarios/02e_eliador-balas.cfg:202
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:81
 #: Eliador/scenarios/03_eliador-battle.cfg:74
 msgid "Death of Ardella, Anna, or Zeke"
 msgstr "Tod von Ardella, Anna oder Zeke"
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:167
+#: Eliador/scenarios/02c_eliador-anwar.cfg:161
 msgid "Gwaraug"
 msgstr "Gwaraug"
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:168
+#: Eliador/scenarios/02c_eliador-anwar.cfg:162
 msgid "Shelog"
 msgstr "Shelog"
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:169
+#: Eliador/scenarios/02c_eliador-anwar.cfg:163
 msgid "Nuba"
 msgstr "Nuba"
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:177
+#: Eliador/scenarios/02c_eliador-anwar.cfg:171
 msgid "The beasts of Anwar can prove useful to us."
 msgstr "Die Bestien von Anwar können sich als nützlich erweisen."
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:178
+#: Eliador/scenarios/02c_eliador-anwar.cfg:172
 msgid "What must we do?"
 msgstr "Was müssen wir tun?"
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:179
+#: Eliador/scenarios/02c_eliador-anwar.cfg:173
 msgid "Do you remember the magic words your father taught you?"
 msgstr ""
 "Erinnert ihr euch an die magischen Worte die euer Vaters euch gelehrt hat?"
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:180
+#: Eliador/scenarios/02c_eliador-anwar.cfg:174
 msgid "Iumento, pareah."
 msgstr "Iumento, pareah."
 
 #. [event]
-#: Eliador/scenarios/02c_eliador-anwar.cfg:181
+#: Eliador/scenarios/02c_eliador-anwar.cfg:175
 msgid "Good. Approach a beast, look into its eyes and recite those words."
 msgstr ""
 "Gut. Nähert euch einer Bestie schaut in seine Augen und sagt diese Worte auf."
 
 #. [scenario]: id=eliador-anwar, (id=Zeke, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#: Eliador/scenarios/02c_eliador-anwar.cfg:240
+#: Eliador/scenarios/02c_eliador-anwar.cfg:234
 msgid "Momma, what was that flapping noise?"
 msgstr "Mama, was war das für ein flatterndes Geräusch?"
 
 #. [then]: (id=Ardella
-#: Eliador/scenarios/02c_eliador-anwar.cfg:251
+#: Eliador/scenarios/02c_eliador-anwar.cfg:245
 msgid "Exit the cave!"
 msgstr "Verlasst die Höhle!"
 
 #. [else]: (id=Ardella
-#: Eliador/scenarios/02c_eliador-anwar.cfg:254
+#: Eliador/scenarios/02c_eliador-anwar.cfg:248
 msgid "Stay out of the cave!"
 msgstr "Bleibt aus der Höhle!"
 
@@ -647,12 +647,12 @@ msgstr ""
 "abzuwehren?"
 
 #. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:131
+#: Eliador/scenarios/02e_eliador-balas.cfg:132
 msgid "Beach of Balas"
 msgstr "Strand von Balas"
 
 #. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:136
+#: Eliador/scenarios/02e_eliador-balas.cfg:137
 msgid ""
 "Finaly we faced Bill and his men, in an desparate atempt to free Zilead."
 msgstr ""
@@ -660,180 +660,180 @@ msgstr ""
 "Versuch, Zilead zu befreien."
 
 #. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:157
+#: Eliador/scenarios/02e_eliador-balas.cfg:158
 msgid "Duelists"
 msgstr "Duellanten"
 
 #. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:176
+#: Eliador/scenarios/02e_eliador-balas.cfg:177
 msgid "Prisoners"
 msgstr "Gefangene"
 
 #. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:182
+#: Eliador/scenarios/02e_eliador-balas.cfg:183
 msgid "Rescued Prisoners"
 msgstr "Gerettete Gefangene"
 
 #. [objectives]
-#: Eliador/scenarios/02e_eliador-balas.cfg:191
+#: Eliador/scenarios/02e_eliador-balas.cfg:192
 msgid "The fencers will leave after all elves have been killed or captured"
 msgstr ""
 "Die Fechter werden die Insel verlassen, nachdem alle Elfen getötet oder "
 "gefangen wurden"
 
 #. [objective]: condition=win
-#: Eliador/scenarios/02e_eliador-balas.cfg:193
+#: Eliador/scenarios/02e_eliador-balas.cfg:194
 msgid "Kill all Fencers"
 msgstr "Töte alle Fechter"
 
 #. [objective]: condition=win
-#: Eliador/scenarios/02e_eliador-balas.cfg:197
+#: Eliador/scenarios/02e_eliador-balas.cfg:198
 msgid "Rescue all human Prisoners"
 msgstr "Rette alle menschlichen Gefangenen"
 
 #. [else]
-#: Eliador/scenarios/02e_eliador-balas.cfg:238
+#: Eliador/scenarios/02e_eliador-balas.cfg:239
 msgid "Eledril"
 msgstr "Eledril"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:277
+#: Eliador/scenarios/02e_eliador-balas.cfg:278
 msgid "Caryn"
 msgstr "Caryn"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:278
+#: Eliador/scenarios/02e_eliador-balas.cfg:279
 msgid "Saenvan"
 msgstr "Saenvan"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:282
+#: Eliador/scenarios/02e_eliador-balas.cfg:283
 msgid "Gleran"
 msgstr "Gleran"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:283
+#: Eliador/scenarios/02e_eliador-balas.cfg:284
 msgid "Aethunry"
 msgstr "Aethunry"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:284
+#: Eliador/scenarios/02e_eliador-balas.cfg:285
 msgid "Owidry"
 msgstr "Owidry"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:285
+#: Eliador/scenarios/02e_eliador-balas.cfg:286
 msgid "Lurraent"
 msgstr "Lurraent"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:286
+#: Eliador/scenarios/02e_eliador-balas.cfg:287
 msgid "Yranvan"
 msgstr "Yranvan"
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02e_eliador-balas.cfg:300
+#: Eliador/scenarios/02e_eliador-balas.cfg:301
 msgid "Momma, that's the bad man who took papa!"
 msgstr "Mama, das ist der böse Mann, der Papa nahm!"
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02e_eliador-balas.cfg:301
+#: Eliador/scenarios/02e_eliador-balas.cfg:302
 msgid "Bill!"
 msgstr "Bill!"
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02e_eliador-balas.cfg:302
+#: Eliador/scenarios/02e_eliador-balas.cfg:303
 msgid "Ardella has arrived. You know what to do."
 msgstr "Ardella ist gekommen. Ihr wisst, was zu tun ist."
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02e_eliador-balas.cfg:311
+#: Eliador/scenarios/02e_eliador-balas.cfg:312
 msgid "Wait here."
 msgstr "Wartet hier."
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:339
-#: Eliador/scenarios/02e_eliador-balas.cfg:447
+#: Eliador/scenarios/02e_eliador-balas.cfg:340
+#: Eliador/scenarios/02e_eliador-balas.cfg:448
 msgid "Balthor"
 msgstr "Balthor"
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02e_eliador-balas.cfg:351
+#: Eliador/scenarios/02e_eliador-balas.cfg:352
 msgid "Did you see that? There's something in the bay."
 msgstr "Hast du das gesehen? Es ist etwas in der Bucht."
 
 #. [event]: (id=Zeke, (id=Ardella, (id=Bill, (id=Bill, (id=Ardella, (id=Ardella, (id=$anwar_store[$i].id) $locs[$where].x $locs[$where].y}, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02e_eliador-balas.cfg:352
+#: Eliador/scenarios/02e_eliador-balas.cfg:353
 msgid "Let's check it out."
 msgstr "Lasst uns nachschauen."
 
 #. [then]: (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:371
+#: Eliador/scenarios/02e_eliador-balas.cfg:372
 msgid "Anna! Zeke!"
 msgstr "Anna! Zeke!"
 
 #. [event]: (id=Brella, (id=Brella, (id=Ardella
 #. [then]: (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:372
-#: Eliador/scenarios/02e_eliador-balas.cfg:392
+#: Eliador/scenarios/02e_eliador-balas.cfg:373
+#: Eliador/scenarios/02e_eliador-balas.cfg:393
 msgid "Brella"
 msgstr "Brella"
 
 #. [event]: (id=Brella, (id=Brella, (id=Ardella
-#: Eliador/scenarios/02e_eliador-balas.cfg:393
+#: Eliador/scenarios/02e_eliador-balas.cfg:394
 msgid "Hop on. I'll take you to your children."
 msgstr "Spring auf. Ich werde dich zu deinen Kinder nehmen."
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:449
+#: Eliador/scenarios/02e_eliador-balas.cfg:450
 msgid "Wow, a sea serpent!"
 msgstr "Wow, eine Seeschlange!"
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:450
+#: Eliador/scenarios/02e_eliador-balas.cfg:451
 msgid "What are human children doing in my water?"
 msgstr "Was tun Menschenkinder in meinen Gewässer?"
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:451
+#: Eliador/scenarios/02e_eliador-balas.cfg:452
 msgid "We our looking for our father..."
 msgstr "Wir sind unseren Vater am suchen ..."
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:452
+#: Eliador/scenarios/02e_eliador-balas.cfg:453
 msgid "He was taken by the man in that galleon."
 msgstr "Er wurde von dem Mann in dieser Galeere mitgenommen."
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:453
+#: Eliador/scenarios/02e_eliador-balas.cfg:454
 msgid "There are captives on a nearby isle. Perhaps your father is among them."
 msgstr ""
 "Es sind Gefangene auf einer nahe gelegenen Insel. Vielleicht ist euer Vater "
 "unter ihnen."
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:454
+#: Eliador/scenarios/02e_eliador-balas.cfg:455
 msgid "Will you please take us there?"
 msgstr "Wirst du uns bitte hinbringen?"
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:455
+#: Eliador/scenarios/02e_eliador-balas.cfg:456
 msgid "Hop on."
 msgstr "Springt auf."
 
 #. [then]: (id=Zeke, (id=Balthor, (id=Anna, (id=Zeke, (id=Balthor, (id=Zeke, (id=Balthor, (id=Balthor, (id=Anna, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02e_eliador-balas.cfg:476
+#: Eliador/scenarios/02e_eliador-balas.cfg:477
 msgid "Hold on tight!"
 msgstr "Halte dich fest!"
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:583
+#: Eliador/scenarios/02e_eliador-balas.cfg:584
 msgid "Thank you..."
 msgstr "Danke..."
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:584
+#: Eliador/scenarios/02e_eliador-balas.cfg:585
 msgid ""
 "These children are looking for their father. His name is Zilead. Have you "
 "seen him?"
@@ -842,12 +842,12 @@ msgstr ""
 "gesehen?"
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:585
+#: Eliador/scenarios/02e_eliador-balas.cfg:586
 msgid "Zilead was taken southward... towards Varad."
 msgstr "Zilead ist mit nach Süden verschleppt worden... Richtung Varad."
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:586
+#: Eliador/scenarios/02e_eliador-balas.cfg:587
 msgid ""
 "Can you take us there? We must help the sea creatures of Eliador battle the "
 "incoming galleons."
@@ -856,12 +856,12 @@ msgstr ""
 "helfen die ankommenden Schiffe zu bekämpfen."
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:587
+#: Eliador/scenarios/02e_eliador-balas.cfg:588
 msgid "Of course. Good luck, all of you!"
 msgstr "Natürlich. Viel Glück, euch allen!"
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:672
+#: Eliador/scenarios/02e_eliador-balas.cfg:673
 msgid "What have I done? Ardella is dead!"
 msgstr "Was habe ich getan? Ardella ist Tod!"
 
@@ -1141,29 +1141,29 @@ msgid "Orcs"
 msgstr "Orks"
 
 #. [objective]: condition=win
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:79
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:73
 msgid "Kill all Invaders"
 msgstr "Tötet alle Invasoren"
 
 #. [objective]: condition=win
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:83
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:77
 msgid "Rescue the habitants of Dol Kelroth"
 msgstr "Rette die Einwohner von Dol Kelroth"
 
 #. [event]
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella) yes}, (id=Anna) yes}, (id=Zeke) yes}, (type=Cuttle Fish, (id=Urian) yes}
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:111
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:460
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:105
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:422
 msgid "Urian"
 msgstr "Urian"
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:193
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:179
 msgid "Where is everyone?"
 msgstr "Wo sind alle?"
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:209
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:195
 msgid ""
 "Urian! Please, if you are still alive, you must get my children away from "
 "these beasts!"
@@ -1172,7 +1172,7 @@ msgstr ""
 "Biestern bringen!"
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:210
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:196
 msgid ""
 "Ardella, there are orcs everywhere! I have sent two gryphons for your kids. "
 "If you help me defeat the orcs, my birds and I will forever be at your "
@@ -1183,12 +1183,12 @@ msgstr ""
 "vögel und ich für immer dankbar sein."
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:216
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:202
 msgid "Hurry, children! Get on the gryphons and fly somewhere safe!"
 msgstr "Beeilt euch, Kinder! Nimmt die Greifen und fliegt in Sicherheit!"
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:218
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:204
 msgid ""
 "Ardella, the residents of Dol Kelroth have been killed and their bodies "
 "dumped in the sea."
@@ -1197,12 +1197,12 @@ msgstr ""
 "Leichen in die See geworfen."
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:219
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:205
 msgid "Are you certain everyone is dead?"
 msgstr "Bist du dir sicher dass alle Tod sind?"
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:220
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:206
 msgid ""
 "I have tried to search the sea for survivors, but neither I nor my birds can "
 "see through the dense fog."
@@ -1211,22 +1211,22 @@ msgstr ""
 "noch meine vögel können durch diesen dichten Nebel sehen."
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:222
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:208
 msgid "Momma, you kill all the orcs and we'll find the survivors."
 msgstr "Mama, du tötest alle Orks und wir finden alle überlebenden."
 
 #. [event]: (id=Anna, (id=Zeke, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Ardella, (id=Urian, (id=Zeke, (id=Anna
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:224
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:210
 msgid "Sounds like a plan... Let's go, Zeke!"
 msgstr "Hört sich wie ein Plan an... Auf geht's, Zeke!"
 
 #. [then]: (id=Ardella
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:398
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:360
 msgid "The invaders of Dol Kelroth are vanquished."
 msgstr "Die Invasoren von Dol Kelroth sind besiegt."
 
 #. [event]: (id=Ardella
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:409
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:371
 msgid "We are overrun by these loathesome creatures!"
 msgstr "Wir sind von diesen abscheulichen Kreaturen überrannt worden!"
 
@@ -1795,42 +1795,42 @@ msgid "Horse"
 msgstr "Pferd"
 
 #. [unit_type]: id=Outlaw Kid, race=human, description=
-#: Eliador/units/Outlaw_Kid.cfg:237
+#: Eliador/units/Outlaw_Kid.cfg:233
 msgid "Outlaw Boy"
 msgstr "Junger Geächteter"
 
 #. [variation]
-#: Eliador/units/Outlaw_Kid.cfg:340
+#: Eliador/units/Outlaw_Kid.cfg:336
 msgid "Gryphon Boy"
 msgstr "Greifen Junge"
 
 #. [female]
-#: Eliador/units/Outlaw_Kid.cfg:343
+#: Eliador/units/Outlaw_Kid.cfg:339
 msgid "female^Gryphon Girl"
 msgstr "Greifen Mädchen"
 
 #. [variation]
-#: Eliador/units/Outlaw_Kid.cfg:350
+#: Eliador/units/Outlaw_Kid.cfg:346
 msgid "Mounted Boy"
 msgstr "Berittener Junge"
 
 #. [female]
-#: Eliador/units/Outlaw_Kid.cfg:354
+#: Eliador/units/Outlaw_Kid.cfg:350
 msgid "female^Mounted Girl"
 msgstr "Berittenes Mädchen"
 
 #. [variation]
-#: Eliador/units/Outlaw_Kid.cfg:362
+#: Eliador/units/Outlaw_Kid.cfg:358
 msgid "Mounted Sea Serpent"
 msgstr "Seeschlangen Reiter"
 
 #. [female]
-#: Eliador/units/Outlaw_Kid.cfg:365
+#: Eliador/units/Outlaw_Kid.cfg:361
 msgid "female^Mounted Sea Serpent"
 msgstr "Seeschlangen Reiterin"
 
 #. [female]
-#: Eliador/units/Outlaw_Kid.cfg:371
+#: Eliador/units/Outlaw_Kid.cfg:367
 msgid "female^Outlaw Girl"
 msgstr "Junge Geächtete"
 
